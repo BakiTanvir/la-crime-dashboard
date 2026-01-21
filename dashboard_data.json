@@ -1,0 +1,118 @@
+{
+  "kpi": {
+    "total_records": 733940,
+    "total_areas": 21,
+    "total_crime_types": 138,
+    "avg_victim_age": 39.50322914679674
+  },
+  "counts_by_year": [
+    {
+      "occ_year": 2020,
+      "count": 150940
+    },
+    {
+      "occ_year": 2021,
+      "count": 158232
+    },
+    {
+      "occ_year": 2022,
+      "count": 179175
+    },
+    {
+      "occ_year": 2023,
+      "count": 168701
+    },
+    {
+      "occ_year": 2024,
+      "count": 76839
+    },
+    {
+      "occ_year": 2025,
+      "count": 53
+    }
+  ],
+  "top_areas": [
+    {
+      "area_name": "Central",
+      "count": 51941
+    },
+    {
+      "area_name": "Southwest",
+      "count": 47746
+    },
+    {
+      "area_name": "77th Street",
+      "count": 46112
+    },
+    {
+      "area_name": "Pacific",
+      "count": 42168
+    },
+    {
+      "area_name": "Hollywood",
+      "count": 39040
+    },
+    {
+      "area_name": "Southeast",
+      "count": 36420
+    },
+    {
+      "area_name": "N Hollywood",
+      "count": 36097
+    },
+    {
+      "area_name": "Olympic",
+      "count": 36037
+    },
+    {
+      "area_name": "Wilshire",
+      "count": 35657
+    },
+    {
+      "area_name": "Topanga",
+      "count": 34351
+    }
+  ],
+  "top_crimes_overall": [
+    {
+      "crime_type": "BATTERY - SIMPLE ASSAULT",
+      "count": 73548
+    },
+    {
+      "crime_type": "BURGLARY FROM VEHICLE",
+      "count": 61508
+    },
+    {
+      "crime_type": "THEFT OF IDENTITY",
+      "count": 61322
+    },
+    {
+      "crime_type": "ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT",
+      "count": 51477
+    },
+    {
+      "crime_type": "THEFT PLAIN - PETTY ($950 & UNDER)",
+      "count": 46842
+    },
+    {
+      "crime_type": "VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS)",
+      "count": 46312
+    },
+    {
+      "crime_type": "INTIMATE PARTNER - SIMPLE ASSAULT",
+      "count": 46037
+    },
+    {
+      "crime_type": "BURGLARY",
+      "count": 39756
+    },
+    {
+      "crime_type": "THEFT FROM MOTOR VEHICLE - GRAND ($950.01 AND OVER)",
+      "count": 35112
+    },
+    {
+      "crime_type": "THEFT-GRAND ($950.01 & OVER)EXCPT,GUNS,FOWL,LIVESTK,PROD",
+      "count": 27653
+    }
+  ]
+}
